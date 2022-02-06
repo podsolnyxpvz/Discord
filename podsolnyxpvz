@@ -1,0 +1,85 @@
+import time
+
+text = ""
+
+print(text, end='', flush=True)
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'д')
+
+time.sleep(0.5)
+
+print('\b' * len(text) + 'д')
+
+time.sleep(0.5)
+
+print('\b' * len(text) + 'дай')
+
+print(text, end='', flush=True)
+
+time.sleep(0.9)
+
+print('\b' * len(text) + '')
+
+print(text, end='', flush=True)
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'с')
+
+time.sleep(0.5)
+
+print('\b' * len(text) + 'св')
+
+import time
+
+text = ""
+
+print(text, end='', flush=True)
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'сво')
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'свой')
+
+time.sleep(0.9)
+
+print('\b' * len(text) + '')
+
+print(text, end='', flush=True)
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'д')
+
+print(text, end='', flush=True)
+
+time.sleep(0.5)
+
+print('\b' * len(text) + 'д')
+
+time.sleep(0.5)
+
+print('\b' * len(text) + 'дис')
+
+import time
+
+text = ""
+
+print(text, end='', flush=True)
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'дискор')
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'дискорди')
+
+time.sleep(0.1)
+
+print('\b' * len(text) + 'дискордик')
